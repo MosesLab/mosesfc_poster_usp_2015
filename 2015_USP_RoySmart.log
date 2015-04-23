@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.13)  5 APR 2015 01:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.13)  6 APR 2015 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,35 +575,44 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count142
 )
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks31
+\labelindent=\skip74
+\enit@outerparindent=\dimen184
+\enit@toks=\toks32
+\enit@inbox=\box70
+\enitdp@description=\count143
+)
 (./2015_USP_RoySmart.aux)
 \openout1 = `2015_USP_RoySmart.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count143
-\scratchdimen=\dimen184
-\scratchbox=\box70
-\nofMPsegments=\count144
-\nofMParguments=\count145
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count146
-\MPscratchDim=\dimen185
-\MPnumerator=\count147
-\makeMPintoPDFobject=\count148
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count144
+\scratchdimen=\dimen185
+\scratchbox=\box71
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen186
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks34
 ) ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -683,65 +692,66 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/teal_sun.png, id=20, 4111.36pt x 4111.36pt>
-File: images/teal_sun.png Graphic file (type png)
- <use images/teal_sun.png>
-Package pdftex.def Info: images/teal_sun.png used on input line 57.
+<images/blue_sun.png, id=20, 4111.36pt x 4111.36pt>
+File: images/blue_sun.png Graphic file (type png)
+ <use images/blue_sun.png>
+Package pdftex.def Info: images/blue_sun.png used on input line 60.
 (pdftex.def)             Requested size: 1088.0189pt x 1087.99962pt.
 
-<inverted_solar_physics_logo.png, id=21, 417.81094pt x 581.17125pt>
-File: inverted_solar_physics_logo.png Graphic file (type png)
+<images/inverted_solar_physics_logo.png, id=21, 417.81094pt x 581.17125pt>
+File: images/inverted_solar_physics_logo.png Graphic file (type png)
 
-<use inverted_solar_physics_logo.png>
-Package pdftex.def Info: inverted_solar_physics_logo.png used on input line 57.
-
+<use images/inverted_solar_physics_logo.png>
+Package pdftex.def Info: images/inverted_solar_physics_logo.png used on input l
+ine 60.
 (pdftex.def)             Requested size: 417.80992pt x 581.16983pt.
 
-<msuvertcmyk.pdf, id=23, 277.035pt x 193.72375pt>
-File: msuvertcmyk.pdf Graphic file (type pdf)
- <use msuvertcmyk.pdf>
-Package pdftex.def Info: msuvertcmyk.pdf used on input line 57.
+<images/msuvertcmyk.pdf, id=23, 277.035pt x 193.72375pt>
+File: images/msuvertcmyk.pdf Graphic file (type pdf)
+
+<use images/msuvertcmyk.pdf>
+Package pdftex.def Info: images/msuvertcmyk.pdf used on input line 60.
 (pdftex.def)             Requested size: 277.03432pt x 193.72327pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 57.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-Underfull \hbox (badness 2205) in paragraph at lines 77--77
+Underfull \hbox (badness 2205) in paragraph at lines 74--74
 []\T1/cmr/m/n/10 The Multi Or-der So-lar EUV Spec-tro-graph
  []
 
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-
-Underfull \hbox (badness 5504) in paragraph at lines 89--89
-[]\T1/cmr/m/it/10 MOSES \T1/cmr/m/n/10 was first launched on
- []
-
 <images/MOSESinFlight.png, id=25, 1300.86pt x 3701.83pt>
 File: images/MOSESinFlight.png Graphic file (type png)
 
 <use images/MOSESinFlight.png>
-Package pdftex.def Info: images/MOSESinFlight.png used on input line 89.
+Package pdftex.def Info: images/MOSESinFlight.png used on input line 87.
 (pdftex.def)             Requested size: 1300.85684pt x 3701.82101pt.
 
-Overfull \hbox (3.08119pt too wide) in paragraph at lines 89--89
+Underfull \hbox (badness 1052) in paragraph at lines 87--87
+\T1/cmr/m/n/10 ary 8, 2006 on a NASA sound-ing
+ []
+
+
+Overfull \hbox (3.08438pt too wide) in paragraph at lines 87--87
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--89
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
@@ -751,69 +761,145 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<images/vdx104.jpg, id=26, 582.175pt x 602.25pt>
+Package epstopdf Info: Source file: <images/hw_block.eps>
+(epstopdf)                    date: 2015-04-06 18:05:14
+(epstopdf)                    size: 33218 bytes
+(epstopdf)             Output file: <images/hw_block-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-06 18:06:06
+(epstopdf)                    size: 19733 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/hw_block-eps-conver
+ted-to.pdf images/hw_block.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+<images/hw_block-eps-converted-to.pdf, id=26, 686.565pt x 344.28625pt>
+File: images/hw_block-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/hw_block-eps-converted-to.pdf>
+Package pdftex.def Info: images/hw_block-eps-converted-to.pdf used on input lin
+e 107.
+(pdftex.def)             Requested size: 686.56332pt x 344.2854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[][]
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 107--107
+\T1/cmr/m/n/8 Block di-a-gram of ma-jor hard-ware com-po-nents
+ []
+
+
+Overfull \hbox (2.08139pt too wide) in paragraph at lines 107--107
+[][] 
+ []
+
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+<images/vdx104.jpg, id=27, 582.175pt x 602.25pt>
 File: images/vdx104.jpg Graphic file (type jpg)
  <use images/vdx104.jpg>
-Package pdftex.def Info: images/vdx104.jpg used on input line 107.
+Package pdftex.def Info: images/vdx104.jpg used on input line 124.
 (pdftex.def)             Requested size: 582.17358pt x 602.24852pt.
 
-<images/fpga.png, id=27, 970.62625pt x 983.675pt>
+<images/fpga.png, id=28, 970.62625pt x 983.675pt>
 File: images/fpga.png Graphic file (type png)
  <use images/fpga.png>
-Package pdftex.def Info: images/fpga.png used on input line 107.
+Package pdftex.def Info: images/fpga.png used on input line 124.
 (pdftex.def)             Requested size: 970.62389pt x 983.6726pt.
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 5726) in paragraph at lines 120--120
-\T1/cmr/m/n/10 a threaded ar-chi-tec-ture to
+Overfull \hbox (7.2688pt too wide) in paragraph at lines 124--124
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-\T1/cmr/m/n/10 in-clud-ing mutex-protected
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+
  []
 
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Package epstopdf Info: Source file: <images/mfsw_block.eps>
+(epstopdf)                    date: 2015-04-06 18:18:16
+(epstopdf)                    size: 100381 bytes
+(epstopdf)             Output file: <images/mfsw_block-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-04-06 18:19:25
+(epstopdf)                    size: 22602 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/mfsw_block-eps-conv
+erted-to.pdf images/mfsw_block.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+<images/mfsw_block-eps-converted-to.pdf, id=29, 1232.605pt x 628.3475pt>
+File: images/mfsw_block-eps-converted-to.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 2426) in paragraph at lines 120--120
-\T1/cmr/m/n/10 queues, Linux Sig-nals, and
+<use images/mfsw_block-eps-converted-to.pdf>
+Package pdftex.def Info: images/mfsw_block-eps-converted-to.pdf used on input l
+ine 140.
+(pdftex.def)             Requested size: 1232.60199pt x 628.34596pt.
+
+Overfull \hbox (1.64424pt too wide) in paragraph at lines 140--140
+\T1/cmr/m/n/10 synchronization 
  []
 
-<images/mfsw_poster.png, id=28, 973.74316pt x 441.22737pt>
-File: images/mfsw_poster.png Graphic file (type png)
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 153.
 
-<use images/mfsw_poster.png>
-Package pdftex.def Info: images/mfsw_poster.png used on input line 120.
-(pdftex.def)             Requested size: 973.74078pt x 441.22629pt.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 153.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
- [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/teal_sun.png (PNG
- copy)> <./inverted_solar_physics_logo.png> <./msuvertcmyk.pdf> <./images/MOSES
-inFlight.png> <./images/vdx104.jpg> <./images/fpga.png> <./images/mfsw_poster.p
-ng>] (./2015_USP_RoySmart.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+
+ []
+
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+
+ []
+
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+[2
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/blue_sun.png (PNG
+ copy)> <./images/inverted_solar_physics_logo.png> <./images/msuvertcmyk.pdf> <
+./images/MOSESinFlight.png> <./images/hw_block-eps-converted-to.pdf> <./images/
+vdx104.jpg> <./images/fpga.png> <./images/mfsw_block-eps-converted-to.pdf>]
+(./2015_USP_RoySmart.aux) ) 
 Here is how much of TeX's memory you used:
- 13792 strings out of 493304
- 262418 string characters out of 6139871
- 425940 words of memory out of 5000000
- 16936 multiletter control sequences out of 15000+600000
- 11198 words of font info for 32 fonts, out of 8000000 for 9000
+ 14422 strings out of 493304
+ 274141 string characters out of 6139871
+ 454027 words of memory out of 5000000
+ 17536 multiletter control sequences out of 15000+600000
+ 16201 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 63i,18n,70p,489b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-s
-uper-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-rm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfti1440.pfb>
-Output written on 2015_USP_RoySmart.pdf (1 page, 59134393 bytes).
+ 63i,18n,70p,523b,944s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-
+t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+rm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0800.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on 2015_USP_RoySmart.pdf (1 page, 59931199 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
